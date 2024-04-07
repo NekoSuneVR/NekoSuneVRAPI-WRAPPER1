@@ -1,0 +1,7 @@
+{
+    "twitch": "/social/api/twitch/",
+    "kick": "/social/api/kick/",
+    "dlive": "/social/api/dlive/",
+    "trovo": "/social/api/trovo/",
+    "vimm": "/social/api/vimm/"
+}
