@@ -9,12 +9,12 @@
     },
     "keywords": [
       "api",
-      "wrapper"
+      "wrapper",
+      "nekosunevr"
     ],
-    "author": "Your Name",
+    "author": "NekoSuneVR",
     "license": "MIT",
     "dependencies": {
-      "axios": "^0.24.0"
     }
   }
   
